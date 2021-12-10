@@ -865,7 +865,7 @@ Bein Sport 1,p5p://fccs.123178.top:9906/6165658200031117137285d54842b1b6
 KIX,p5p://fccs.123178.top:9906/616566670008f07e137605ddefea23ec	
 Bioskop,p5p://fccs.123178.top:9906/617283a200000b8e12f9a8b81381e1a6
 Horee,p5p://fccs.123178.top:9906/617283dc0008834712fa8d73146ce99b
-group,香港
+香港2,#genre#
 翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
 翡翠华丽台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37356.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
@@ -899,7 +899,7 @@ RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 
-group,台湾
+台湾2,#genre#
 民视,rtmp://59.124.75.157:1935/sat/tv051
 台视,rtmp://59.124.75.157:1935/sat/tv071
 中视,rtmp://59.124.75.157:1935/sat/tv091
@@ -1006,7 +1006,7 @@ ElevenSports2.pl,ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:80
 民视旅游台,http://seb.sason.top/ptv/ftv.php?id=ly
 民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
 
-group,4K高清
+4K高清,#genre#
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
@@ -1017,7 +1017,7 @@ LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 4K花园生活 24M2160,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园影视 24M2160,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 
-group,日本
+日本2,#genre#
 NHK.mx,NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 nhk-world,NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision[1280*7,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -1033,7 +1033,7 @@ Tokyo MX 2[1280*720][1280,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 テレビ东京[1280*720][1280*720],http://203.162.235.41:16908
 フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
 
-group,海外
+海外,#genre#
 france24,FRANCE24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 tv5monde,TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
@@ -1055,7 +1055,7 @@ DisneyJunior.uk,Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playl
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 boec,SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
-group,体育
+体育2,#genre#
 CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -1124,7 +1124,7 @@ WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
 咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
 咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
 
-group,马来西亚
+马来西亚2,#genre#
 ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
 ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
 Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
@@ -1437,7 +1437,7 @@ CNBC Indonesia,http://iptv.tvmalaysia.cc:80/kl570/kl570/8849
 Kompas TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8850
 CNN Indonesia,http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
 
-group,韩国
+韩国2,#genre#
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
