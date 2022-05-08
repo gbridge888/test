@@ -1,3 +1,54 @@
+4GTV,#genre#
+4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+6民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+9大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+10中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+12華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+13三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+14客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+21新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+23ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+30LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+32ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+42MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+49東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+51東森新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+52華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+53民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+54三立財經新聞iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+55TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+56東森財經新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+57中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+58中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+62SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+69東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+70民視綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+71豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+76中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+105智林體育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+106時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+111民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+112滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+113亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+123中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+125公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+126民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+137金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+164人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+170半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+171VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+173DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+185國會頻道1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170
+186國會頻道2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171
+201經典電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+202經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 p5pfccs,#genre#
 HBO-HD,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
@@ -218,144 +269,3 @@ TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 星空衛視,p5p://fccs.123178.top:9906/60eda96d000783c911d47fc0406d599e
 高點綜合,p5p://fccs.123178.top:9906/6149448d0007247b0d4ca68022a5f032
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-TV5 Monde,p5p://fccs.123178.top:9906/6046414f0008aa040882014b96694a71.ts
-CNN Internationa,p5p://fccs.123178.top:9906/614941fe0007b8690d42a80e92bf1540
-BBC WORLD NEWS,p5p://fccs.123178.top:9906/60464299000eba8708870be862b68160.ts
-Channel NewsAsia頻道,p5p://fccs.123178.top:9906/604643330003bf3e088962a9042b90c4.ts
-DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
-CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
-France 24,p5p://fccs.123178.top:9906/616564d400040306136fde623656c5e4
-半島電視,tvbus://4KnFZbsL7QU1wC8h6eLnZa7vSyKHg6yu3PLSHMR1tFg33NVXAX
-CCTV-1,p5p://fccs.123178.top:9906/61639e73000d1dce0c80f5cfd8b5d01b
-CCTV-2,p5p://fccs.123178.top:9906/61639fe5000aa5f00c869a7d245b5d5b
-CCTV-3,p5p://fccs.123178.top:9906/6163a1400000c4100c8be36ea147d63d
-CCTV4,p5p://fccs.123178.top:9906/6163a22f0005cee70c8f8a5024eb9d2e
-CCYV-5+,p5p://fccs.123178.top:9906/6163a3ae000b4a240c9563cfa0ba91f3
-CCTV-6,p5p://fccs.123178.top:9906/6163a456000d57ac0c97f4963b595941
-CCTV-7,p5p://fccs.123178.top:9906/6163a5ac000295cc0c9d29c5cfa2b23a
-CCTV-8,p5p://fccs.123178.top:9906/6163a620000b0f4e0c9ef110e05e4808
-CCTV-9,p5p://fccs.123178.top:9906/6163a761000b15d80ca3d6faf0e11be2
-CCTV-10,p5p://fccs.123178.top:9906/6163a835000223080ca710d095c16bad
-CCTV-11,p5p://fccs.123178.top:9906/6163aaf4000961950cb1ccc2e2200908
-CCTV-12,p5p://fccs.123178.top:9906/6163accf0008acd40cb90c0c58842efb
-CCTV13,p5p://fccs.123178.top:9906/6163ad53000e70950cbb112609408037
-CCTV-14,p5p://fccs.123178.top:9906/6163adcc000e6d310cbce9cdc4ed582c
-CCTV-15,p5p://fccs.123178.top:9906/6163ae5d0007550e0cbf1e640629aef4
-河南衛視,p5p://fccs.123178.top:9906/6163e4a90005dbc30d9336e3917f6d1f
-山東衛視,p5p://fccs.123178.top:9906/6163e7ec0007d73c0d9ff51dc93e5caa
-湖南衛視,p5p://fccs.123178.top:9906/6163cab8000d4b660d2de36340e7d587
-澳亞衛視,p5p://fccs.123178.top:9906/6163e3e3000877620d90321ebeee304f
-東方衛視,p5p://fccs.123178.top:9906/6163cb75000ceb470d30c592f0cdd68e
-江蘇衛視,p5p://fccs.123178.top:9906/6163e43c000718200d918d6cef262e03
-北京衛視,p5p://fccs.123178.top:9906/6163e476000677b80d926fd3162c93c4
-深圳衛視,p5p://fccs.123178.top:9906/6163e5e1000c91400d97fb5b08fb9cdf
-湖北衛視,p5p://fccs.123178.top:9906/6163e58e0006e3dd0d96b5af4f7ed8cb
-東南衛視,p5p://fccs.123178.top:9906/6163e6340008825c0d993e894699f175
-珠江台,p5p://fccs.123178.top:9906/6163e74e000037f00d9d89fa794b67b9
-廣東衛視,p5p://fccs.123178.top:9906/6163e4d80004b9270d93ee31c196aacd
-浙江衛視,p5p://fccs.123178.top:9906/6163ccff000084180d36c575c8a7a96e
-南方衛視,p5p://fccs.123178.top:9906/6163e5b20000f5b80d9740ca22ef02b4
-廣東體育,p5p://fccs.123178.top:9906/6163e6640000735f0d99f7f9ebd689cb
-衛視音樂,p5p://fccs.123178.top:9906/6163e81300020e350da08bfaf7a3c756
-
-鉄道チャンネル,p5p://fccs.123178.top:9906/6163fa58000f19960de7ecd9276ed6b5
-NEWS24,p5p://fccs.123178.top:9906/6163fa82000ec77c0de890d444e4b40f
-FIGHTING TV サムライ,p5p://fccs.123178.top:9906/6163fa99000a67f70de8e98ec63704ec
-アニマルプラネット,p5p://fccs.123178.top:9906/6163faae000a32850de93b8843e13623
-Disney XD Japan,p5p://fccs.123178.top:9906/6163fad2000b65ef0de9c8776b55d158
-スターチャンネル1,p5p://fccs.123178.top:9906/6163fae4000bd7ae0dea0ee4a80d24c7
-スターチャンネル2,p5p://fccs.123178.top:9906/6163fafd00096e5e0dea6fee6382f378
-スターチャンネル３,p5p://fccs.123178.top:9906/6163fb11000589730deabd0e1d8365f7
-スーパー！ドラマＴＶ ＨＤ,p5p://fccs.123178.top:9906/6163fb280009d9b00deb18016bd980f2
-MONDO TV HD,p5p://fccs.123178.top:9906/6163fb410003bd290deb7819025833e7
-ゴルフネットワークHD,p5p://fccs.123178.top:9906/6163fb9b00058a0d0decd81f38470c0a
-ＢＢＣワールドニュース,p5p://fccs.123178.top:9906/6163fbc10003978e0ded6c0f0b629f55
-CNN/US HD,p5p://fccs.123178.top:9906/6163fbe0000960a10dede6a22930a24d
-Music Japan TV HD,p5p://fccs.123178.top:9906/6163fbf60005b93a0dee3ba3d634fd61
-MTV HD,p5p://fccs.123178.top:9906/6163fc0700066f0f0dee7e39db4999a5
-MUSIC ON! TV,p5p://fccs.123178.top:9906/617ca23b00078cb306984d21f662b04e
-ヒストリーチャンネル™ HD,p5p://fccs.123178.top:9906/6163fc38000b3a220def3edb417ca5a9	
-ＡＸＮ ＨＤ 海外ドラマ,p5p://fccs.123178.top:9906/6163fc4f000c36520def98f44de61dfd
-ナショナル ジオグラフィック チャンネル HD,p5p://fccs.123178.top:9906/6163fc96000b34c10df0ae0a77091af5
-ＫＢＳ Ｗｏｒｌｄ ＨＤ,p5p://fccs.123178.top:9906/6163fcab00042e720df0fe46ecd3493c
-FOX HD,p5p://fccs.123178.top:9906/6163fcc3000201850df15b77d1dfdfba
-東映チャンネルＨＤ,p5p://fccs.123178.top:9906/6163fcd90005fae50df1b26bfdb79ad3
-女性チャンネル♪LaLa TV(HD),p5p://fccs.123178.top:9906/6163fcee0004b9cd0df20421754ec672
-ムービープラスＨＤ,p5p://fccs.123178.top:9906/6163fd000005bc180df24ab3c125a950
-日テレG+ HD,p5p://fccs.123178.top:9906/6163fd1400035ae40df29837c446956d
-衛星劇場ＨＤ,p5p://fccs.123178.top:9906/6163fd28000509de0df2e6c6eb1cfbfe
-ＧＡOＲＡ　ＨＤ,p5p://fccs.123178.top:9906/6163fd3e000926800df33dc3dbb83a53
-フジテレビ,p5p://fccs.123178.top:9906/606ad3be000380a701fee92f192a715c.ts
-ザ・シネマＨＤ,p5p://fccs.123178.top:9906/6163fd51000eeceb0df38976ad19ebf2
-スカイ・A sports＋ ＨＤ,p5p://fccs.123178.top:9906/6163fd62000b33fb0df3caeab2643bc3
-ディスカバリーチャンネル,p5p://fccs.123178.top:9906/6163fd76000be6230df41937e513afe9
-旅チャンネルＨＤ,p5p://fccs.123178.top:9906/6163ef90000e2cc00dbdcf5dcb563908
-ホ-ムドラマチャンネル,p5p://fccs.123178.top:9906/606ad4b3000254650202a5ea92a8c504.ts
-ＷＯＷＯＷシネマ,p5p://fccs.123178.top:9906/6163efb60006ea500dbe61f1431b7474
-ＷＯＷＯＷライブ,p5p://fccs.123178.top:9906/6163efd7000071b40dbee1313fdc1060
-ＷＯＷＯＷプライム,p5p://fccs.123178.top:9906/6163eff400031a6c0dbf5327d5d57b51
-テレ朝チャンネル２,p5p://fccs.123178.top:9906/6163f010000380410dbfc0a10bbe559e
-テレ朝チャンネル１,p5p://fccs.123178.top:9906/6163f5a700075e190dd597768bf6b402
-ミュージック・エア,p5p://fccs.123178.top:9906/6163f5fd0001169a0dd6e5cb012f4d4a
-ＴＢＳチャンネル１,p5p://fccs.123178.top:9906/6163f6580007f0060dd84b0420c3bd2e
-銀河,p5p://fccs.123178.top:9906/6163f69200025edc0dd92c27c1094973
-フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/6163f6ac00001e830dd99123079962d0
-フジテレビＯＮＥ,p5p://fccs.123178.top:9906/6163f6e4000dfdf60dda6f7113350d44
-フジテレビＴＷＯ,p5p://fccs.123178.top:9906/6163f7040005306e0ddaea30ced35bcf
-J SPORTS 1,p5p://fccs.123178.top:9906/6163f826000d84c70ddf59224313dbf9
-J SPORTS 2,p5p://fccs.123178.top:9906/6163f84c00011a380ddfea64fb808978
-J SPORTS 3,p5p://fccs.123178.top:9906/6163f864000a6bb50de04a860b844554
-J SPORTS 4,p5p://fccs.123178.top:9906/6163f8d30006256b0de1fb065d8da9ca
-VIE TV,p5p://fccs.123178.top:9906/61653e5f000689fa12d9a6009d77a29d
-Vien Thao TV,p5p://fccs.123178.top:9906/61653fc00005fd1212df08c404bbd366
-Tviet Network,p5p://fccs.123178.top:9906/616540140006601812e050fd68e35b94
-iMovie HD,p5p://fccs.123178.top:9906/616544cf000d213e12f2cd30ae3e15fa
-FBNC HD,p5p://fccs.123178.top:9906/6165452f00000a0712f440d62693ccca
-Quốc Hội HD,p5p://fccs.123178.top:9906/61654a90000125cc1309440733b0129c
-Thông Tấn Xã Việt Nam,p5p://fccs.123178.top:9906/61654ac50008b7dc130a14fffb820bde
-CNN,p5p://fccs.123178.top:9906/616540e1000379c612e37107b5b75c0b
-BBC Earth HD,p5p://fccs.123178.top:9906/616540fa0006e63f12e3d390430b19b7
-BBC News,p5p://fccs.123178.top:9906/616541100002c5f412e42871dce9c076
-BBC Lifestyle,p5p://fccs.123178.top:9906/61654125000bf07512e47cd210f0d3f6
-Bloomberg,p5p://fccs.123178.top:9906/61654137000ea57c12e4c3d33f38fbea
-Discovery HD,p5p://fccs.123178.top:9906/6165416a000e027b12e58ae209743984
-Travel-Living HD,p5p://fccs.123178.top:9906/616542dd0008b51c12eb32be1e9c0207
-HTVC Du Lịch,p5p://fccs.123178.top:9906/616550d7000c0a511321cc2990016e33
-HTVC Phụ Nữ,p5p://fccs.123178.top:9906/61655145000104b1132377067b35faa1
-France 24,p5p://fccs.123178.top:9906/6165523c0005fb5913273d24c173b87a
-VTV1 HD,p5p://fccs.123178.top:9906/61654b48000b7ac7130c156c3af5b1e5
-VTC7,p5p://fccs.123178.top:9906/61654d42000d0d3e1313ce635309015d	
-VTV4 HD,p5p://fccs.123178.top:9906/61655007000c77c5131e9fc5f8c39f19	
-VTV5 HD,p5p://fccs.123178.top:9906/6165502f000cd663131f3c1d46f0c094	
-VTV7 HD,p5p://fccs.123178.top:9906/6165504000038b7f131f7c241c7b0177	
-Phú Thọ HD,p5p://fccs.123178.top:9906/617291f80009da0b1331ab2b3331b776
-Cà Mau HD,p5p://fccs.123178.top:9906/6172922e000c97b313327ecf379d1e80
-Bình Dương 2 HD,p5p://fccs.123178.top:9906/6183a3a9000d56870823ccab88ce013a
-Trà Vinh HD,p5p://fccs.123178.top:9906/61729322000dd25d1336383fa8fad971
-Trans7,p5p://fccs.123178.top:9906/61871d36000bf82715b69b197d23d5de
-MNC TV,p5p://fccs.123178.top:9906/61655d6700067d9f1352dd3ddd39ede4	
-RCTI,p5p://fccs.123178.top:9906/61655d91000175e613538003db9eabcf	
-ANTV,p5p://fccs.123178.top:9906/61655ddd000887f41354aab33eed3673		
-MY-Useesport1,p5p://fccs.123178.top:9906/61655e02000dad4013553c8cc0f73016	
-Champions 2,p5p://fccs.123178.top:9906/61655e200007c2bf1355b0389c313d61	
-Champions 1,p5p://fccs.123178.top:9906/61655e3400048b1b1355fd85bc17dc4e	
-KBS WorlD,p5p://fccs.123178.top:9906/61655f0a0001ee25135940ca9b5ac0ce	
-TV9 NU,p5p://fccs.123178.top:9906/6183b6200004fee5086beb60ccee4564
-Fox Movies Action,p5p://fccs.123178.top:9906/616560750004a2ee135ecb73ed40a894	
-FOX Movie,p5p://fccs.123178.top:9906/61656082000dde7d135f0098cd0d855e	
-Cartoon Network,p5p://fccs.123178.top:9906/6165610d00061e1f13611d9462491f94	
-CCM,p5p://fccs.123178.top:9906/6165613b0004c1b61361d0ebf6b54882	
-Berita Satu,p5p://fccs.123178.top:9906/616561ec000b36de136485fa946bb936
-Lifetime,p5p://fccs.123178.top:9906/616561ff000bdea81364d05d41be910e	
-FOX Family Mov,p5p://fccs.123178.top:9906/616562800001f11f1366c5bbc8f968bd		
-HBO Hits,p5p://fccs.123178.top:9906/616562ee0005b92713687463321cb4d0	
-HBO Singature,p5p://fccs.123178.top:9906/61656300000efd9c1368bd121d8e6fa4	
-HBO Family,p5p://fccs.123178.top:9906/61656318000d926213691a75fde79ae8	
-HGTV,p5p://fccs.123178.top:9906/6165638f000792c5136ae9c4c6ce9c4e	
-iNews,p5p://fccs.123178.top:9906/616563a6000b8631136b449fc97c1eb5	
-Muslin,p5p://fccs.123178.top:9906/616563d0000b2314136be89528f1689f	
-HBO,p5p://fccs.123178.top:9906/616565140005033f1370d8a41ccc3201	
-Bein Sport 1,p5p://fccs.123178.top:9906/6165658200031117137285d54842b1b6	
-KIX,p5p://fccs.123178.top:9906/616566670008f07e137605ddefea23ec	
-Bioskop,p5p://fccs.123178.top:9906/617283a200000b8e12f9a8b81381e1a6
-Horee,p5p://fccs.123178.top:9906/617283dc0008834712fa8d73146ce99b
