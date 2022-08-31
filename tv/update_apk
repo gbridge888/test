@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "1.0.4",
-  "downUrl": "https://gitea.com/tvboxmax/apk_release/raw/branch/main/releaseV1/tvbox_1.0.4.apk",
+  "downUrl": "https://raw.githubusercontent.com/gbridge888/test/main/releaseV1/tvbox_1.0.4.apk",
   "description": "增加新包，优化爬虫",
   "md5":"378b66b9110f8f3bc9dd1bafb0cbdb9c"
 }
