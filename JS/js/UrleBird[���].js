@@ -8,25 +8,33 @@
 // Pluto Player官方TG https://t.me/PlutoPlayer
 // Pluto Player官方TG https://t.me/PlutoPlayerChannel
 
+// 已知问题:
+// js0 无法嗅探播放
+// js1 俊壳,PythonBox 嗅探播放正常
+// js1 Pluto + 简易lazy,解决有声音没画面! 嗅探播放也正常
+
 var rule = {
-    title:'酷酷韩剧',
-    host:'http://www.kan-tv.com',
-    url:'/hanju/?p=fypage',
-    searchUrl:'',
-    searchable:0,
+    title:'UrleBird',
+    host:'https://urlebird.com',
+    homeUrl:'/trending/',
+    url:'fyclass/page/fypage/[fyclass/]',
+    searchUrl:'/search/?q=**',//Search @user or #hash
+    searchable:2,
     quickSearch:0,
-    class_name:'最新韩剧',
-    class_url:'/',
+    class_name:'更新&人气&热搜',
+    class_url:'videos&videos/popular&trending',
     headers:{
         'User-Agent':'PC_UA'
     },
     timeout:5000,
     play_parse:true,
-    lazy:'',
-    limit:6,
+    //lazy:'',
+    lazy:'js:let html=request(input);let rurl=html.match(/video src="(.*?)"/)[1];input={parse:0,url:rurl};',
+    limit:10,
     double:false,
     推荐:'*',
-    一级:'.resource-main .shadow;h1&&Text;img&&src;.resource-abstract:eq(1)&&Text;a&&href',
-    二级:{title:'h1&&Text;.article-detail-content&&Text',img:'img&&src',desc:'',content:'.article-detail-content&&Text',tabs:'.article-category-title',lists:'.article-category-list:eq(#id) a'},
-    搜索:'',
+    一级:'.text-md-left .thumb;.author-name&&Text;.img img&&data-src;.info3 a:eq(1)&&Text;.info3 a:eq(1)&&href',
+    //一级:'.text-md-left .thumb;.author-name&&Text;.img img&&src;.info3 a:eq(1)&&Text;.info3 a:eq(1)&&href',
+    二级:'*',
+    搜索:'*',
 }
