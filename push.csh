@@ -1,4 +1,4 @@
 #!/bin/csh -f
 git add .
-git ci -m "u"
+git commit -m "u"
 git push
