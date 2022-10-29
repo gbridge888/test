@@ -1,0 +1,2 @@
+../update_vars '\.\/js\/' 'https:\/\/raw.githubusercontent.com\/gbridge888\/test\/main\/JS\/js\/'
+../update_vars '\.\/w\.jar' 'https:\/\/raw.githubusercontent.com\/gbridge888\/test\/main\/JS\/w\.jar'
