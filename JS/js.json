@@ -1,6 +1,26 @@
 {//"spider":"./fm.jar",
  "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;C45057E6962866AC965326BF8942CDD4",
  "sites":[
+"key": "海外看(xml)",
+      "name": "海外看(xml)",
+      "type": 0,
+      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩剧",
+        "韩国综艺",
+        "日剧",
+        "国产剧",
+        "欧美剧",
+        "港剧",
+        "台剧",
+        "新马剧",
+        "泰剧",
+        "其他剧"
+      ]
+},
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1},
 {key:"csp_XBPQ_iqtv",name:"iqtv(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
