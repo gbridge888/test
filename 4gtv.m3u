@@ -1,675 +1,675 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv003/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv001/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv002/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv002/index.m3u8
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live007/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live007/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv040/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv080/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv080/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv041/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live207/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live207/index.m3u8
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv043/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv043/index.m3u8
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv039/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv039/index.m3u8
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv064/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv064/index.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv067/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv067/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv070/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv070/index.m3u8
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv046/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv046/index.m3u8
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv047/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv047/index.m3u8
 #EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="綜合其他",新唐人亞太台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live050/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live050/index.m3u8
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv079/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv079/index.m3u8
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅遊",Global Trekker
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live112/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live014/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live014/index.m3u8
 #EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物四台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live049/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live049/index.m3u8
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通",LiveABC 互動英語台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live030/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live030/index.m3u8
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv018/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv018/index.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn20/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn20/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live032/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live032/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live105/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通",DreamWorks
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live017/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv044/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv057/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv057/index.m3u8
 #EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通",MOMO親子
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live107/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live047/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live047/index.m3u8
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv102/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv102/index.m3u8
 #EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv102/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv102/index.m3u8
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv075/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv152/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv052/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv052/index.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv13/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv13/index.m3u8
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live089/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live089/index.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv153/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv074/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live059/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live059/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn14/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv156/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv156/index.m3u8
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live060/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live060/index.m3u8
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv158/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv158/index.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv073/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live046/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live046/index.m3u8
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv103/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv103/index.m3u8
 #EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv103/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv103/index.m3u8
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv004/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv004/index.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv006/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv062/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv062/index.m3u8
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv063/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv063/index.m3u8
 #EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv054/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv054/index.m3u8
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv065/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv065/index.m3u8
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv068/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv068/index.m3u8
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv016/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv016/index.m3u8
 #EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live080/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live080/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="生活旅遊", Lifetime
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live029/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live029/index.m3u8
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台 CMusic
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live031/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live031/index.m3u8
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv082/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv082/index.m3u8
 #EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝",MTV Live
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live025/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live025/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv083/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv083/index.m3u8
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv059/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv059/index.m3u8
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物三台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live048/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live048/index.m3u8
 #EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="生活旅遊",INULTRA
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live096/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live096/index.m3u8
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv077/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv077/index.m3u8
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv101/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv101/index.m3u8
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv014/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv014/index.m3u8
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live201/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live201/index.m3u8
 #EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv053/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv053/index.m3u8
 #EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="生活旅遊",Pet Club TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live110/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live110/index.m3u8
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv07/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv07/index.m3u8
 #EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊",滾動力 Rollor
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live012/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live012/index.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv076/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="生活旅遊",FUN 4K探索娛樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live011/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live011/index.m3u8
 #EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊",幸福空間居家台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live206/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live206/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="生活旅遊",LOVE NATURE
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live208/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live208/index.m3u8
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live026/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live026/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊",ELTA生活旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live120/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live120/index.m3u8
 #EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊",LUXE TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live121/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live121/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="生活旅遊",TV5MONDE Style
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live122/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live122/index.m3u8
 #EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊",MagellanTV頻道
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live123/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live123/index.m3u8
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv042/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv042/index.m3u8
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv09/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv09/index.m3u8
 #EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="電影戲劇",HITS
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live620/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live620/index.m3u8
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv034/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv034/index.m3u8
 #EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="電影戲劇",霹靂布袋戲
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live145/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live145/index.m3u8
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv058/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv058/index.m3u8
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv045/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv045/index.m3u8
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="紀實探索",CI 罪案偵查頻道
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live027/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live027/index.m3u8
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv013/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv013/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv15/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv15/index.m3u8
 #EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live144/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live144/index.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live138/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv049/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv049/index.m3u8
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv055/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv055/index.m3u8
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv061/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv061/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv011/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv017/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv017/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="電影戲劇",Cinema World
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live069/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",歐洲光影
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live157/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live157/index.m3u8
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv16/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv16/index.m3u8
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv17/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live106/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live106/index.m3u8
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="綜合其他",人間衛視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live008/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live008/index.m3u8
 #EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live146/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live146/index.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv10/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv10/index.m3u8
 #EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-ftv03/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-ftv03/index.m3u8
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經",CNBC Asia 財經台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live130/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live130/index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live071/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live071/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv084/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv084/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv085/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv085/index.m3u8
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS綜藝台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live087/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live087/index.m3u8
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live088/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live088/index.m3u8
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="電影戲劇",經典電影台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live021/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live021/index.m3u8
 #EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通",經典卡通台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live022/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live022/index.m3u8
 #EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通",精選動漫台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live024/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live024/index.m3u8
 #EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="電影戲劇",戲劇免費看1台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live010/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live010/index.m3u8
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv003/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv001/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv040/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv080/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv080/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv041/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn02/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn02/index.m3u8
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn01/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn01/index.m3u8
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn03/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn03/index.m3u8
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn11/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn11/index.m3u8
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn12/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn12/index.m3u8
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn18/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn18/index.m3u8
 #EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn21/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn21/index.m3u8
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="體育競技",博斯魅力
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn04/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn04/index.m3u8
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="體育競技",博斯高球I
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn05/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn05/index.m3u8
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="體育競技",博斯高球II
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn06/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn06/index.m3u8
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="體育競技",博斯運動I
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn07/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn07/index.m3u8
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="體育競技",博斯運動II
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn08/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn08/index.m3u8
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="體育競技",博斯網球
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn09/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn09/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="體育競技",博斯無限I
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn10/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn10/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn13/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn13/index.m3u8
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv010/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv010/index.m3u8
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv048/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv056/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv056/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="綜合其他",中天亞洲台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv109/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv109/index.m3u8
 #EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-live207/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-live207/index.m3u8
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv043/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv043/index.m3u8
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv039/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv039/index.m3u8
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv064/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv064/index.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv067/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv067/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv070/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv070/index.m3u8
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv046/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv046/index.m3u8
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv047/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv047/index.m3u8
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv079/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv079/index.m3u8
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv018/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv018/index.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn20/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn20/index.m3u8
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv044/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv057/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv057/index.m3u8
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv075/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv152/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv13/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv13/index.m3u8
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv072/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv153/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv074/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv009/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn14/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv156/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv156/index.m3u8
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv158/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv158/index.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv073/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv004/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv004/index.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv006/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv006/index.m3u8
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv062/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv062/index.m3u8
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv063/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv063/index.m3u8
 #EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv054/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv054/index.m3u8
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv065/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv065/index.m3u8
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv068/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv068/index.m3u8
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv016/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv016/index.m3u8
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv082/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv082/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv083/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv083/index.m3u8
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv059/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv059/index.m3u8
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv077/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv077/index.m3u8
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv101/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv101/index.m3u8
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv014/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv014/index.m3u8
 #EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv053/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv053/index.m3u8
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv07/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv07/index.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv076/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv042/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv042/index.m3u8
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv09/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv09/index.m3u8
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv034/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv034/index.m3u8
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv058/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv058/index.m3u8
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv045/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv045/index.m3u8
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv013/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv013/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv15/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv15/index.m3u8
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv049/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv049/index.m3u8
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv055/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv055/index.m3u8
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv061/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv061/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv011/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv017/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv017/index.m3u8
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv16/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv16/index.m3u8
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv17/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv10/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv10/index.m3u8
 #EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-ftv03/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-ftv03/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv084/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv084/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv085/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv085/index.m3u8
 #EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn22/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn22/index.m3u8
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-litv-longturn19/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv051/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv066/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/li-4gtv-4gtv104/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/li-4gtv-4gtv104/index.m3u8
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv051/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv066/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv040/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv074/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv041/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv009/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-litv-longturn14/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-litv-longturn14/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv156/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv156/index.m3u8
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv158/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv158/index.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv076/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-litv-ftv16/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-litv-ftv16/index.m3u8
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-litv-ftv17/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv084/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv084/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-4gtv-4gtv085/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-4gtv-4gtv085/index.m3u8
 #EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn22/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn22/index.m3u8
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn19/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/4gtv-4gtv104/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/4gtv-4gtv104/index.m3u8
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/iNEWS/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/iNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/of-litv-longturn20/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/of-litv-longturn20/index.m3u8
 #EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn02/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn02/index.m3u8
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn01/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn01/index.m3u8
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn03/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn03/index.m3u8
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn11/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn11/index.m3u8
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn12/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn12/index.m3u8
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn18/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn18/index.m3u8
 #EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/litv-longturn21/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/litv-longturn21/index.m3u8
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍播新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/nnews-zh/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/nnews-zh/index.m3u8
 #EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍英語新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/nnews-en/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/nnews-en/index.m3u8
 #EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍越語新聞
-http://dajbzqpgcqcl.us-west-1.clawcloudrun.com/nnews-vn/index.m3u8
+http://egmlyfdpcbmj.us-west-1.clawcloudrun.com/nnews-vn/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="咪咕视频", CCTV1综合
-http://sport.pendy.dpdns.org/migu/608807420?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="咪咕视频", CCTV2财经
-http://sport.pendy.dpdns.org/migu/631780532?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="咪咕视频", CCTV3综艺
-http://sport.pendy.dpdns.org/migu/624878271?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="咪咕视频", CCTV4中文国际
-http://sport.pendy.dpdns.org/migu/631780421?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/344/202204010055_1626830735444_H169_1080.jpg" group-title="咪咕视频", CCTV4美洲
-http://sport.pendy.dpdns.org/migu/608807416?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608807416?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="咪咕视频", CCTV4欧洲
-http://sport.pendy.dpdns.org/migu/608807419?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608807419?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="咪咕视频", CCTV5体育
-http://sport.pendy.dpdns.org/migu/641886683?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="咪咕视频", CCTV5+体育赛事
-http://sport.pendy.dpdns.org/migu/641886773?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="咪咕视频", CCTV6电影
-http://sport.pendy.dpdns.org/migu/624878396?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="咪咕视频", CCTV7国防军事
-http://sport.pendy.dpdns.org/migu/673168121?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="咪咕视频", CCTV8电视剧
-http://sport.pendy.dpdns.org/migu/624878356?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="咪咕视频", CCTV9纪录
-http://sport.pendy.dpdns.org/migu/673168140?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="咪咕视频", CCTV10科教
-http://sport.pendy.dpdns.org/migu/624878405?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="咪咕视频", CCTV11戏曲
-http://sport.pendy.dpdns.org/migu/667987558?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="咪咕视频", CCTV12社会与法
-http://sport.pendy.dpdns.org/migu/673168185?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="咪咕视频", CCTV13新闻
-http://sport.pendy.dpdns.org/migu/608807423?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="咪咕视频", CCTV14少儿
-http://sport.pendy.dpdns.org/migu/624878440?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="咪咕视频", CCTV15音乐
-http://sport.pendy.dpdns.org/migu/673168223?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="" group-title="咪咕视频", CCTV16奥林匹克
-http://sport.pendy.dpdns.org/migu/673168256?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="咪咕视频", CCTV17农业农村
-http://sport.pendy.dpdns.org/migu/673168256?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/356/202502251602_1740470533820_H169_1080.jpg" group-title="咪咕视频", CGTN外语记录
-http://sport.pendy.dpdns.org/migu/609006487?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609006487?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/303/202502251557_1740470224929_H169_1080.jpg" group-title="咪咕视频", CGTN阿拉伯语
-http://sport.pendy.dpdns.org/migu/609154345?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609154345?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/337/202502251600_1740470429939_H169_1080.jpg" group-title="咪咕视频", CGTN西班牙语
-http://sport.pendy.dpdns.org/migu/609006450?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609006450?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/324/202502251559_1740470364968_H169_1080.jpg" group-title="咪咕视频", CGTN法语
-http://sport.pendy.dpdns.org/migu/609006476?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609006476?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="咪咕视频", CGTN俄语
-http://sport.pendy.dpdns.org/migu/609006446?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609006446?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="咪咕视频", 老故事
-http://sport.pendy.dpdns.org/migu/884121956?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/884121956?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="咪咕视频", 发现之旅
-http://sport.pendy.dpdns.org/migu/624878970?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/624878970?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="咪咕视频", 中学生
-http://sport.pendy.dpdns.org/migu/708869532?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/708869532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="咪咕视频", CGTN
-http://sport.pendy.dpdns.org/migu/609017205?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609017205?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/058/351/202106171938_5100043384_H169_1080.jpg" group-title="咪咕视频", 东方卫视
-http://sport.pendy.dpdns.org/migu/651632648?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="咪咕视频", 江苏卫视
-http://sport.pendy.dpdns.org/migu/623899368?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="咪咕视频", 广东卫视
-http://sport.pendy.dpdns.org/migu/608831231?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="咪咕视频", 江西卫视
-http://sport.pendy.dpdns.org/migu/783847495?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/585/202304031400_1679994685582_H169_1080.jpg" group-title="咪咕视频", 河南卫视
-http://sport.pendy.dpdns.org/migu/790187291?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/020/475/202207191732_1658131375175_H169_1080.jpg" group-title="咪咕视频", 陕西卫视
-http://sport.pendy.dpdns.org/migu/738910838?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="咪咕视频", 大湾区卫视
-http://sport.pendy.dpdns.org/migu/608917627?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608917627?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/163/202501231715_1658138621263_H169_1080.jpg" group-title="咪咕视频", 湖北卫视
-http://sport.pendy.dpdns.org/migu/947472496?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/164/202501231715_1658138745288_H169_1080.jpg" group-title="咪咕视频", 吉林卫视
-http://sport.pendy.dpdns.org/migu/947472500?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/166/202501231715_1658138568499_H169_1080.jpg" group-title="咪咕视频", 青海卫视
-http://sport.pendy.dpdns.org/migu/947472506?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/896/202308111117_1690875139589_H169_1080.jpg" group-title="咪咕视频", 东南卫视
-http://sport.pendy.dpdns.org/migu/849116810?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/165/202501231715_1658138887282_H169_1080.jpg" group-title="咪咕视频", 海南卫视
-http://sport.pendy.dpdns.org/migu/947472502?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/897/202308111126_1690875414853_H169_1080.jpg" group-title="咪咕视频", 海峡卫视
-http://sport.pendy.dpdns.org/migu/849119120?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/849119120?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="咪咕视频", 上视东方影视
-http://sport.pendy.dpdns.org/migu/617290047?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/617290047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/008/312/202209271630_2201008312_H169_1080.jpg" group-title="咪咕视频", 上海第一财经
-http://sport.pendy.dpdns.org/migu/608780988?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608780988?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/863/202307121521_1689144286039_H169_1080.jpg" group-title="咪咕视频", 南京新闻综合频道
-http://sport.pendy.dpdns.org/migu/838109047?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/838109047?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/865/202307121700_1689146721503_H169_1080.jpg" group-title="咪咕视频", 南京教科频道
-http://sport.pendy.dpdns.org/migu/838153729?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/838153729?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/864/202307121658_1689146982273_H169_1080.jpg" group-title="咪咕视频", 南京十八频道
-http://sport.pendy.dpdns.org/migu/838151753?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/838151753?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/554/202104022139_5100186459_H169_1080.jpg" group-title="咪咕视频", 体育休闲频道
-http://sport.pendy.dpdns.org/migu/626064707?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064707?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/508/202104022138_5100186409_H169_1080.jpg" group-title="咪咕视频", 江苏城市频道
-http://sport.pendy.dpdns.org/migu/626064714?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/577/202104022139_5100186482_HSJ720H.jpg" group-title="咪咕视频", 江苏国际
-http://sport.pendy.dpdns.org/migu/626064674?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064674?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/287/493/202104022139_5101012819_HSJ720H.jpg" group-title="咪咕视频", 江苏教育
-http://sport.pendy.dpdns.org/migu/628008321?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/628008321?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/517/202104022138_5100186424_H169_1080.jpg" group-title="咪咕视频", 江苏影视频道
-http://sport.pendy.dpdns.org/migu/626064697?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064697?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/513/202104022039_5100186420_H169_1080.jpg" group-title="咪咕视频", 江苏综艺频道
-http://sport.pendy.dpdns.org/migu/626065193?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626065193?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/520/202104022138_5100186429_H169_1080.jpg" group-title="咪咕视频", 公共新闻频道
-http://sport.pendy.dpdns.org/migu/626064693?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064693?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/363/202104022141_5102012618_H169_1080.jpg" group-title="咪咕视频", 淮安新闻综合
-http://sport.pendy.dpdns.org/migu/639731826?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/639731826?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/354/202104071213_5102012615_H169_1080.jpg" group-title="咪咕视频", 泰州新闻综合
-http://sport.pendy.dpdns.org/migu/639731818?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/639731818?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/369/202104022140_5102012621_H169_1080.jpg" group-title="咪咕视频", 连云港新闻综合
-http://sport.pendy.dpdns.org/migu/639731715?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/639731715?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/357/202104022141_5102012616_H169_1080.jpg" group-title="咪咕视频", 宿迁新闻综合
-http://sport.pendy.dpdns.org/migu/639731832?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/639731832?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/368/202104022141_5102012620_H169_1080.jpg" group-title="咪咕视频", 徐州新闻综合
-http://sport.pendy.dpdns.org/migu/639731747?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/639731747?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/553/202104022139_5100186455_H169_1080.jpg" group-title="咪咕视频", 优漫卡通频道
-http://sport.pendy.dpdns.org/migu/626064703?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/626064703?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="咪咕视频", 经典香港电影
-http://sport.pendy.dpdns.org/migu/625703337?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/625703337?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="咪咕视频", 军事迷必看大片
-http://sport.pendy.dpdns.org/migu/617432318?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/617432318?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="咪咕视频", 新片放映厅
-http://sport.pendy.dpdns.org/migu/619495952?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/619495952?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="咪咕视频", CHC动作电影
-http://sport.pendy.dpdns.org/migu/644368714?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="咪咕视频", CHC家庭影院
-http://sport.pendy.dpdns.org/migu/644368373?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="咪咕视频", 高清大片
-http://sport.pendy.dpdns.org/migu/629943678?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/629943678?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="咪咕视频", 南方影视
-http://sport.pendy.dpdns.org/migu/614961829?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/614961829?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202407181250_1721278183765_H169_1080.jpg" group-title="咪咕视频", 红色轮播台
-http://sport.pendy.dpdns.org/migu/713600957?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/713600957?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202411060921_1730856028525_H169_1080.jpg" group-title="咪咕视频", 金色剧场
-http://sport.pendy.dpdns.org/migu/713591450?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/713591450?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/699/202209211759_2200200699_H169_1080.jpg" group-title="咪咕视频", 熊猫频道1
-http://sport.pendy.dpdns.org/migu/608933610?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608933610?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/717/202209211759_2200200717_H169_1080.jpg" group-title="咪咕视频", 熊猫频道2
-http://sport.pendy.dpdns.org/migu/608933640?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608933640?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/738/202209211759_2200200738_H169_1080.jpg" group-title="咪咕视频", 熊猫频道3
-http://sport.pendy.dpdns.org/migu/608934619?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608934619?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/771/202209211800_2200200771_H169_1080.jpg" group-title="咪咕视频", 熊猫频道4
-http://sport.pendy.dpdns.org/migu/608934721?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608934721?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/791/202209211800_2200200791_H169_1080.jpg" group-title="咪咕视频", 熊猫频道5
-http://sport.pendy.dpdns.org/migu/608935104?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608935104?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/200/817/202209211800_2200200817_H169_1080.jpg" group-title="咪咕视频", 熊猫频道6
-http://sport.pendy.dpdns.org/migu/608935797?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/608935797?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/831/202209211800_2200192831_H169_1080.jpg" group-title="咪咕视频", 熊猫频道7
-http://sport.pendy.dpdns.org/migu/609169286?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609169286?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/881/202209211800_2200192881_H169_1080.jpg" group-title="咪咕视频", 熊猫频道8
-http://sport.pendy.dpdns.org/migu/609169287?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609169287?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/899/202209211800_2200192899_H169_1080.jpg" group-title="咪咕视频", 熊猫频道9
-http://sport.pendy.dpdns.org/migu/609169226?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609169226?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/192/937/202209211800_2200192937_H169_1080.jpg" group-title="咪咕视频", 熊猫频道10
-http://sport.pendy.dpdns.org/migu/609169285?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/609169285?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/462/658/202403281542_1711611714236_H169_1080.jpg" group-title="咪咕视频", 华语乐坛最强音
-http://sport.pendy.dpdns.org/migu/707671890?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/707671890?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202407291311_1722229753453_H169_1080.jpg" group-title="咪咕视频", 周杰伦现场
-http://sport.pendy.dpdns.org/migu/625133682?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/625133682?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="咪咕视频", 最强综艺趴
-http://sport.pendy.dpdns.org/migu/629942228?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/629942228?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/162/202504031100_1743649196497_H169_1080.jpg" group-title="咪咕视频", 咪咕汇盛典轮播
-http://sport.pendy.dpdns.org/migu/939773601?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/939773601?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="咪咕视频", 嘉佳卡通
-http://sport.pendy.dpdns.org/migu/614952364?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/614952364?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="咪咕视频", 经典动画大集合
-http://sport.pendy.dpdns.org/migu/629942219?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/629942219?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202404171403_1713333779827_H169_1080.jpg" group-title="咪咕视频", 中国移动“新动力量”宣讲报告会
-http://sport.pendy.dpdns.org/migu/713589837?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="咪咕视频", NBA经典
-http://sport.pendy.dpdns.org/migu/788815380?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="咪咕视频", 五大联赛经典
-http://sport.pendy.dpdns.org/migu/780288994?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="咪咕视频", 中国足球风云
-http://sport.pendy.dpdns.org/migu/788816794?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="咪咕视频", 赛事最经典
-http://sport.pendy.dpdns.org/migu/646596895?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="咪咕视频", 掼蛋精英赛
-http://sport.pendy.dpdns.org/migu/631354620?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="咪咕视频", 体坛名栏汇
-http://sport.pendy.dpdns.org/migu/629943305?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="咪咕视频", 咪咕24小时体育台
-http://sport.pendy.dpdns.org/migu/654102378?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/713589837?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="咪咕视频" NBA经典
+http://sport.pendy.dpdns.org/migu/788815380?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="咪咕视频" 五大联赛经典
+http://sport.pendy.dpdns.org/migu/780288994?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202404091152_1712634646523_H169_1080.jpg" group-title="咪咕视频" 中国足球风云
+http://sport.pendy.dpdns.org/migu/788816794?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="咪咕视频" 赛事最经典
+http://sport.pendy.dpdns.org/migu/646596895?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="咪咕视频" 掼蛋精英赛
+http://sport.pendy.dpdns.org/migu/631354620?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="咪咕视频" 体坛名栏汇
+http://sport.pendy.dpdns.org/migu/629943305?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="咪咕视频" 咪咕24小时体育台
+http://sport.pendy.dpdns.org/migu/654102378?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="咪咕视频", CETV1
-http://sport.pendy.dpdns.org/migu/923287154?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/923287154?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="咪咕视频", CETV2
-http://sport.pendy.dpdns.org/migu/923287211?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/923287211?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="咪咕视频", CETV4
-http://sport.pendy.dpdns.org/migu/923287339?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_720.jpg" group-title="咪咕视频", CHC影迷电影
-http://sport.pendy.dpdns.org/migu/952383261?token=ly6XveEbpEF8CWE5dVtS8zKCe2RZgefdc2q8kdHQld7xzeynoo8X3s3I-hihUQwb3G-GhqG492btrQp3SyjleQ==
+http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 
 
