@@ -1,9 +1,9 @@
 {
   "lives": [
     {
-      "name": "LiTV直播",
+      "name": "Judy直播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "api": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
       "ext": {}
     },
     {
