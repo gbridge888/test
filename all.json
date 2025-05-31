@@ -2,8 +2,8 @@
   "lives": [
     {
       "name": "Judy直播",
-      "type": 2,
-      "api": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "type": 0,
+      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
       "ext": {}
     },
     {
