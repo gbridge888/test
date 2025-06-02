@@ -9,7 +9,7 @@
     {
       "name": "SMT直播",
       "type": 3,
-      "api": "http://smt888.kesug.com/live_smt.py",
+      "api": "https://raw.githubusercontent.com/gbridge888/test/refs/heads/main/live_smt.py",
       "ext": {}
     },
    {
