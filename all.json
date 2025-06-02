@@ -23,8 +23,8 @@
   },
   {
   "name": "Clawcloud",
-  "type": 3,
-  "api": "https://pnxnvobnsbov.us-west-1.clawcloudrun.com/?type=m3u",
+  "type": 0,
+  "url": "https://pnxnvobnsbov.us-west-1.clawcloudrun.com/?type=m3u",
   "ext": {}
    }
   ]
