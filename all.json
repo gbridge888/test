@@ -12,25 +12,26 @@
       "api": "https://raw.githubusercontent.com/gbridge888/test/refs/heads/main/smt_0516.py",
       "ext": {}
     },
-   {
-  "name": "BeeSport",
-  "type": 3,
-  "api": "https://raw.githubusercontent.com/gbridge888/test/refs/heads/main/live_beesport.py",
-  "ext": {},
-  "header": {
-    "Referer": "https://p.m82xg4z0cdbz7.com/"
-  },
-  {
+    {
+      "name": "BeeSport",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/gbridge888/test/refs/heads/main/live_beesport.py",
+      "ext": {},
+      "header": {
+          "Referer": "https://p.m82xg4z0cdbz7.com/"
+      },
+    },  
+    {
       "name": "LiTV直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/gbridge888/Sub/refs/heads/main/live/live_litv.py",
       "ext": {}
-  },
-  {
-  "name": "Clawcloud",
-  "type": 0,
-  "url": "https://cvfzsgmzbxrf.us-west-1.clawcloudrun.com",
-  "ext": {}
-   }
+    },
+    {
+      "name": "Clawcloud",
+      "type": 0,
+      "url": "https://cvfzsgmzbxrf.us-west-1.clawcloudrun.com",
+      "ext": {}
+    }
   ]
 }
