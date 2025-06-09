@@ -25,7 +25,11 @@
       "name": "LiTV直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/gbridge888/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {}
+      "ext": {
+          "proxy": {
+              "http": "http://127.0.0.1:8089",
+              "https": "http://127.0.0.1:8089"
+          }
     },
     {
       "name": "Clawcloud",
