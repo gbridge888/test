@@ -24,7 +24,7 @@
     {
       "name": "Judy直播",
       "type": 0,
-      "api": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "url": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
       "ext": {
           "proxy": {
               "http": "http://127.0.0.1:8089",
