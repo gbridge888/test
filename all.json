@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "Kim直播",
+      "name": "令牌直播",
       "type": 0,
       "url": "https://iptv.mydiver.eu.org/get.php?username=tg_0va0lzzg&password=atyxpqf8tik2&type=m3u_plus",
       "ext": {}
@@ -21,6 +21,17 @@
           "Referer": "https://p.m82xg4z0cdbz7.com/"
       }
     },  
+    {
+      "name": "Judy直播",
+      "type": 0,
+      "api": "https://smart.pendy.dpdns.org/m3u/merged_judy.m3u",
+      "ext": {
+          "proxy": {
+              "http": "http://127.0.0.1:8089",
+              "https": "http://127.0.0.1:8089"
+          }
+      }
+    },
     {
       "name": "LiTV直播",
       "type": 3,
