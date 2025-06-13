@@ -21,8 +21,8 @@
       "api": "https://raw.githubusercontent.com/gbridge888/Sub/refs/heads/main/live/live_litv.py",
       "ext": {
           "proxy": {
-              "http": "http://192.168.1.73:8089",
-              "https": "http://192.168.1.73:8089"
+              "http": "http://localhost:8089",
+              "https": "http://localhost:8089"
           }
       }
     },
