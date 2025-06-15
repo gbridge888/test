@@ -1,6 +1,12 @@
 {
   "lives": [
     {
+      "name": "Judy直播",
+      "type": 0,
+      "url": "https://iptv.mydiver.eu.org/get.php?username=tg_92xht45u&password=d928ik7qx9du&type=m3u_plus",
+      "ext": {}
+    },
+    {
       "name": "SMT直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/gbridge888/test/refs/heads/main/smt_0516.py",
