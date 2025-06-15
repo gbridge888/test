@@ -27,9 +27,9 @@
       }
     },
     {
-      "name": "Clawcloud",
+      "name": "RenderPHP",
       "type": 0,
-      "url": "https://cvfzsgmzbxrf.us-west-1.clawcloudrun.com",
+      "url": "https://php8-2.onrender.com",
       "ext": {}
     }
   ]
