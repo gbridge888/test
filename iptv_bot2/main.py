@@ -1,9 +1,10 @@
-
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from iptv_manager import IPTVManager
 from database import init_db
 import os
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import threading
 
 init_db()
 iptv = IPTVManager()
@@ -51,5 +52,36 @@ app.add_handler(CommandHandler("mycredentials", mycredentials))
 app.add_handler(CommandHandler("status", status))
 app.add_handler(CommandHandler("refresh", refresh))
 
+
+# ----------- Fake HTTP Server -----------
+
+def run_fake_http_server():
+    class FakeHandler(BaseHTTPRequestHandler):
+        def do_GET(self):
+            if self.path == "/ping":
+                self.send_response(200)
+                self.send_header("Content-type", "text/plain")
+                self.end_headers()
+                self.wfile.write(b"pong")
+            else:
+                self.send_response(404)
+                self.end_headers()
+
+        def log_message(self, format, *args):
+            # 不打印访问日志，避免干扰
+            return
+
+    server_address = ("0.0.0.0", 8080)
+    httpd = HTTPServer(server_address, FakeHandler)
+    print("✅ Fake HTTP Server running at http://0.0.0.0:8080")
+    httpd.serve_forever()
+
+
 if __name__ == "__main__":
+    # 以守护线程启动 Fake HTTP Server
+    threading.Thread(target=run_fake_http_server, daemon=True).start()
+
+    # 启动 Telegram Bot 主循环
+    print("🤖 Telegram Bot 正在运行...")
     app.run_polling()
+
