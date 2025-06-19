@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: iptv-bot
+    env: python
+    buildCommand: ""
+    startCommand: python main.py
+    plan: free
