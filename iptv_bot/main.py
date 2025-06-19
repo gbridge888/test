@@ -50,7 +50,7 @@ def run_fake_server(port=8080):
 
 
 # ---------- Main ----------
-if name == 'main':
+if __name__ == '__main__' :
     # 建立 HTTP Server 的執行緒
     server_thread = threading.Thread(target=run_fake_server, args=(8080,))
     server_thread.daemon = True
