@@ -69,6 +69,7 @@ async def webhook(request: Request):
 
 @app.on_event("startup")
 async def startup():
+    await application.initialize()  # ✅ 這一行是解決 RuntimeError 的關鍵
     await bot.delete_webhook(drop_pending_updates=True)
     await bot.set_webhook(WEBHOOK_URL)
 
