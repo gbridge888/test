@@ -93,7 +93,7 @@ async def get_php(request: Request):
     if datetime.utcnow() > expires:
         return Response(content="# Token expired", media_type="application/x-mpegURL", status_code=403)
 
-    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type={stream_type}&proxy=true"
+    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type=m3u&proxy=true"
     return RedirectResponse(url=redirect_url)
 
 @app.on_event("startup")
