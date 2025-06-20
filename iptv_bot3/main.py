@@ -1,12 +1,14 @@
 import os
 import logging
 from fastapi import FastAPI, Request
+from fastapi.responses import RedirectResponse, Response
 from telegram import Update
 from telegram.ext import (
     Application, CommandHandler, MessageHandler, ContextTypes, filters
 )
-from database import init_db
+from datetime import datetime
 from iptv_manager import IPTVManager
+from database import init_db
 
 logging.basicConfig(level=logging.INFO)
 
@@ -73,6 +75,26 @@ async def webhook(request: Request):
     update = Update.de_json(data, application.bot)
     await application.process_update(update)
     return {"status": "ok"}
+
+@app.get("/get.php")
+async def get_php(request: Request):
+    username = request.query_params.get("username")
+    password = request.query_params.get("password")
+    stream_type = request.query_params.get("type", "m3u")
+
+    if not username or not password:
+        return Response(content="# Missing username or password", media_type="application/x-mpegURL", status_code=400)
+
+    user = iptv.get_user_by_auth(username, password)
+    if user is None:
+        return Response(content="# Invalid username or password", media_type="application/x-mpegURL", status_code=403)
+
+    expires: datetime = user["expires"]
+    if datetime.utcnow() > expires:
+        return Response(content="# Token expired", media_type="application/x-mpegURL", status_code=403)
+
+    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type={stream_type}&proxy=true"
+    return RedirectResponse(url=redirect_url)
 
 @app.on_event("startup")
 async def startup():
