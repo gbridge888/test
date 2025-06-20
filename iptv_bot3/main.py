@@ -1,4 +1,5 @@
 import os
+import logging
 from fastapi import FastAPI, Request
 from telegram import Update, Bot
 from telegram.ext import (
@@ -6,6 +7,9 @@ from telegram.ext import (
 )
 from database import init_db
 from iptv_manager import IPTVManager
+
+# 啟用日誌紀錄
+logging.basicConfig(level=logging.INFO)
 
 TOKEN = os.getenv("BOT_TOKEN")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
@@ -39,8 +43,12 @@ async def gettoken(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not update.message or not update.message.text:
+        return  # 忽略非文字訊息
+
     token = update.message.text.strip()
     result = iptv.get_user_by_token(token)
+
     if result is None:
         await update.message.reply_text("❌ 無效的 token")
     elif result == "expired":
@@ -60,6 +68,9 @@ application.add_handler(CommandHandler("help", help_command))
 application.add_handler(CommandHandler("gettoken", gettoken))
 application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_token_input))
 
+# 加入全域錯誤處理日誌
+application.add_error_handler(Exception, lambda update, context: logging.error("❗️ Uncaught Error", exc_info=context.error))
+
 @app.post("/webhook")
 async def webhook(request: Request):
     data = await request.json()
@@ -69,7 +80,7 @@ async def webhook(request: Request):
 
 @app.on_event("startup")
 async def startup():
-    await application.initialize()  # ✅ 這一行是解決 RuntimeError 的關鍵
+    await application.initialize()
     await bot.delete_webhook(drop_pending_updates=True)
     await bot.set_webhook(WEBHOOK_URL)
 
