@@ -54,7 +54,7 @@ async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE)
         username = result['username']
         password = result['password']
         expires = result['expires'].strftime('%Y-%m-%d %H:%M')
-        link = f"https://yourdomain.com/get.php?username={username}&password={password}&type=m3u_plus"
+        link = f"https://iptv-bot3.onrender.com/get.php?username={username}&password={password}&type=m3u_plus"
         await update.message.reply_text(
             f"✅ IPTV 連結：\n`{link}`\n\n有效至：{expires}",
             parse_mode="Markdown"

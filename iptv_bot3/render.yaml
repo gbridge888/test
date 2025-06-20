@@ -1,12 +1,13 @@
 services:
   - type: web
-    name: iptv-telegram-webhook
+    name: iptv-telegram-bot
     env: python
-    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python main.py
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    plan: free
     envVars:
       - key: BOT_TOKEN
-        value: 8135469468:AAHnue2hzbn7nTzfx0rMlsHflyOSIS_RoGw
+        sync: false
       - key: WEBHOOK_URL
-        value: https://iptv-bot3.onrender.com/webhook
+        sync: false
+
