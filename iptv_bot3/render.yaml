@@ -9,4 +9,4 @@ services:
       - key: BOT_TOKEN
         sync: false
       - key: WEBHOOK_URL
-        value: https://iptv-telegram-webhook.onrender.com
+        value: https://iptv-bot3.onrender.com
