@@ -81,6 +81,7 @@ async def webhook(request: Request):
 @app.on_event("startup")
 async def startup():
     await application.initialize()
+    await application.bot.get_me()  # ✅ 加入這一行，解決 username 問題
     await bot.delete_webhook(drop_pending_updates=True)
     await bot.set_webhook(WEBHOOK_URL)
 
