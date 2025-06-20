@@ -7,6 +7,6 @@ services:
     startCommand: python main.py
     envVars:
       - key: BOT_TOKEN
-        value: 8031598007:AAHeUHwHX8LqWnueOK75gd4gy3bEgwXlYsQ
+        value: 8135469468:AAHnue2hzbn7nTzfx0rMlsHflyOSIS_RoGw
       - key: WEBHOOK_URL
         value: https://iptv-bot3.onrender.com
