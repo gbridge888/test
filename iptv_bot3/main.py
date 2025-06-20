@@ -63,13 +63,17 @@ async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE)
             parse_mode="Markdown"
         )
 
+# ✅ async 錯誤處理函式
+async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
+    logging.error("❗️ Uncaught Exception", exc_info=context.error)
+
 application.add_handler(CommandHandler("start", start))
 application.add_handler(CommandHandler("help", help_command))
 application.add_handler(CommandHandler("gettoken", gettoken))
 application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_token_input))
 
-# 加入全域錯誤處理日誌
-application.add_error_handler(Exception, lambda update, context: logging.error("❗️ Uncaught Error", exc_info=context.error))
+# ✅ 註冊錯誤處理器
+application.add_error_handler(error_handler)
 
 @app.post("/webhook")
 async def webhook(request: Request):
@@ -81,7 +85,7 @@ async def webhook(request: Request):
 @app.on_event("startup")
 async def startup():
     await application.initialize()
-    await application.bot.get_me()  # ✅ 加入這一行，解決 username 問題
+    await application.bot.get_me()  # ✅ 防止 command handler 讀取 username 出錯
     await bot.delete_webhook(drop_pending_updates=True)
     await bot.set_webhook(WEBHOOK_URL)
 
