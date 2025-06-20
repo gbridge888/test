@@ -1,19 +1,25 @@
 import os
 from fastapi import FastAPI, Request
-from telegram import Bot, Update
-from telegram.ext import ApplicationBuilder, WebhookHandler, CommandHandler, MessageHandler, ContextTypes, filters
+from telegram import Update, Bot
+from telegram.ext import (
+    Application, CommandHandler, MessageHandler, ContextTypes, filters
+)
 from database import init_db
 from iptv_manager import IPTVManager
 
 TOKEN = os.getenv("BOT_TOKEN")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
-bot = Bot(token=TOKEN)
-app = FastAPI()
-application = ApplicationBuilder().token(TOKEN).build()
-webhook_handler = WebhookHandler(application)
 iptv = IPTVManager()
+
+# 初始化 Telegram Bot 應用
+application = Application.builder().token(TOKEN).build()
+bot = Bot(token=TOKEN)
+
+# 初始化 FastAPI App
+app = FastAPI()
 init_db()
 
+# --- Handlers ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("👋 歡迎使用 IPTV Token Bot，請輸入 /gettoken 取得驗證碼。")
 
@@ -48,20 +54,27 @@ async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE)
             parse_mode="Markdown"
         )
 
+# 加入 handlers
 application.add_handler(CommandHandler("start", start))
 application.add_handler(CommandHandler("help", help_command))
 application.add_handler(CommandHandler("gettoken", gettoken))
 application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_token_input))
 
+# Webhook 通知處理（FastAPI）
+@app.post("/webhook")
+async def webhook(request: Request):
+    data = await request.json()
+    update = Update.de_json(data, bot)
+    await application.process_update(update)
+    return {"status": "ok"}
+
+# 設定 Webhook（Render 啟動時呼叫）
 @app.on_event("startup")
 async def startup():
     await bot.delete_webhook(drop_pending_updates=True)
-    await bot.set_webhook(url=WEBHOOK_URL)
+    await bot.set_webhook(WEBHOOK_URL)
 
-@app.post("/webhook")
-async def telegram_webhook(req: Request):
-    return await webhook_handler.handle(req)
-
+# 運行伺服器（本地測試用）
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=int(os.getenv("PORT", 8000)))
