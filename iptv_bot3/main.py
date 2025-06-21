@@ -141,7 +141,7 @@ async def get_php(request: Request):
     if datetime.utcnow() > expires:
         return Response(content="# Token expired", media_type="application/x-mpegURL", status_code=403)
 
-    redirect_url = f"https://kim888.zabc.net/?type=m3u&proxy=true"
+    redirect_url = f"https://iptv.mydiver.eu.org/get.php?username=tg_92xht45u&password=d928ik7qx9du&type=m3u_plus"
     return RedirectResponse(url=redirect_url)
 
 @app.on_event("startup")
