@@ -42,8 +42,8 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def gettoken(update: Update, context: ContextTypes.DEFAULT_TYPE):
     valid_count = iptv.count_valid_users()
-    if valid_count >= 10:
-        await update.message.reply_text("⚠️ 使用人數已達上限（10 人），請稍後再試。")
+    if valid_count >= 50:
+        await update.message.reply_text("⚠️ 使用人數已達上限（50 人），請稍後再試。")
         return
 
     token = iptv.generate_token(update.effective_user.id)
