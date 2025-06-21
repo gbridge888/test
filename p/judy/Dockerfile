@@ -1,6 +1,6 @@
 
 # Use the specified image as base
-FROM instituteiptv/iptv-4gtv:0.0.5
+FROM instituteiptv/iptv-4gtv:0.0.6
 
 # Expose the port used inside the container
 EXPOSE 5050
