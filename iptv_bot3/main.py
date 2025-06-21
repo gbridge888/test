@@ -9,6 +9,7 @@ from telegram.ext import (
 from datetime import datetime
 from iptv_manager import IPTVManager
 from database import init_db
+from datetime import datetime, timedelta
 
 logging.basicConfig(level=logging.INFO)
 
@@ -29,12 +30,21 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "📘 說明：\n"
-        "/gettoken - 產生驗證碼\n"
-        "輸入驗證碼 - 回傳 IPTV 連結（有效 120 小時）"
+        "📘 *IPTV Bot 指令說明*\n\n"
+        "🔹 `/start` - 開始使用本機器人\n"
+        "🔹 `/gettoken` - 產生 IPTV 驗證碼（限 10 人使用，有效 120 小時）\n"
+        "🔹 `/status` - 查詢目前 IPTV 狀態（是否過期、IPTV 連結等）\n"
+        "🔹 `/help` - 查看指令說明\n\n"
+        "🔸 取得驗證碼後，請直接貼上驗證碼，機器人會回傳您的專屬 IPTV 連結。",
+        parse_mode="Markdown"
     )
 
 async def gettoken(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    valid_count = iptv.count_valid_users()
+    if valid_count >= 10:
+        await update.message.reply_text("⚠️ 使用人數已達上限（10 人），請稍後再試。")
+        return
+
     token = iptv.generate_token(update.effective_user.id)
     await update.message.reply_text(
         f"🔑 驗證碼為：`{token}`\n請輸入此驗證碼取得 IPTV 連結。",
@@ -54,11 +64,47 @@ async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE)
         username = result['username']
         password = result['password']
         expires = result['expires'].strftime('%Y-%m-%d %H:%M')
-        link = f"https://iptv-bot3.onrender.com/get.php?username={username}&password={password}&type=m3u_plus"
+        link = f"https://yourdomain.com/get.php?username={username}&password={password}&type=m3u_plus"
         await update.message.reply_text(
             f"✅ IPTV 連結：\n`{link}`\n\n有效至：{expires}",
             parse_mode="Markdown"
         )
+
+async def status_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.effective_user.id
+    conn = sqlite3.connect("data.db")
+    c = conn.cursor()
+    c.execute("SELECT username, password, expires FROM users WHERE telegram_id=? ORDER BY id DESC LIMIT 1", (user_id,))
+    row = c.fetchone()
+    conn.close()
+
+    if not row:
+        await update.message.reply_text("❌ 尚未產生過驗證碼，請使用 /gettoken 產生。")
+        return
+
+    username, password, expires_str = row
+    expires = datetime.strptime(expires_str, "%Y-%m-%d %H:%M:%S")
+    now = datetime.utcnow()
+    remaining = expires - now
+
+    if remaining.total_seconds() < 0:
+        status = "❌ 已過期"
+    else:
+        days = remaining.days
+        hours = remaining.seconds // 3600
+        status = f"✅ 有效 ({days} 天 {hours} 小時)"
+
+    iptv_url = f"https://yourdomain.com/get.php?username={username}&password={password}&type=m3u_plus"
+
+    await update.message.reply_text(
+        f"📊 使用者狀態：\n\n"
+        f"👤 使用者名稱：`{username}`\n"
+        f"🔐 密碼：`{password}`\n"
+        f"⏳ 過期時間：{expires.strftime('%Y-%m-%d %H:%M:%S')}\n"
+        f"📅 狀態：{status}\n\n"
+        f"▶️ IPTV 連結：\n`{iptv_url}`",
+        parse_mode="Markdown"
+    )
 
 async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
     logging.error("❗️ Uncaught Exception", exc_info=context.error)
@@ -66,6 +112,7 @@ async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> N
 application.add_handler(CommandHandler("start", start))
 application.add_handler(CommandHandler("help", help_command))
 application.add_handler(CommandHandler("gettoken", gettoken))
+application.add_handler(CommandHandler("status", status_command))
 application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_token_input))
 application.add_error_handler(error_handler)
 
@@ -93,7 +140,7 @@ async def get_php(request: Request):
     if datetime.utcnow() > expires:
         return Response(content="# Token expired", media_type="application/x-mpegURL", status_code=403)
 
-    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type=m3u&proxy=true"
+    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type={stream_type}&proxy=true"
     return RedirectResponse(url=redirect_url)
 
 @app.on_event("startup")
@@ -107,3 +154,4 @@ async def startup():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=int(os.getenv("PORT", 8000)))
+

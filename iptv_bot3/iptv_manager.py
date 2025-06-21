@@ -62,3 +62,12 @@ class IPTVManager:
             "expires": datetime.strptime(row[5], "%Y-%m-%d %H:%M:%S")
         }
 
+    def count_valid_users(self):
+        conn = sqlite3.connect(self.db_path)
+        c = conn.cursor()
+        now_str = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+        c.execute("SELECT COUNT(*) FROM users WHERE expires > ?", (now_str,))
+        count = c.fetchone()[0]
+        conn.close()
+        return count
+
