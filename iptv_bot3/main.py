@@ -64,7 +64,7 @@ async def handle_token_input(update: Update, context: ContextTypes.DEFAULT_TYPE)
         username = result['username']
         password = result['password']
         expires = result['expires'].strftime('%Y-%m-%d %H:%M')
-        link = f"https://yourdomain.com/get.php?username={username}&password={password}&type=m3u_plus"
+        link = f"https://iptv-bot3.onrender.com/get.php?username={username}&password={password}&type=m3u_plus"
         await update.message.reply_text(
             f"✅ IPTV 連結：\n`{link}`\n\n有效至：{expires}",
             parse_mode="Markdown"
@@ -94,7 +94,7 @@ async def status_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         hours = remaining.seconds // 3600
         status = f"✅ 有效 ({days} 天 {hours} 小時)"
 
-    iptv_url = f"https://yourdomain.com/get.php?username={username}&password={password}&type=m3u_plus"
+    iptv_url = f"https://iptv-bot3.onrender.com/get.php?username={username}&password={password}&type=m3u_plus"
 
     await update.message.reply_text(
         f"📊 使用者狀態：\n\n"
@@ -140,7 +140,7 @@ async def get_php(request: Request):
     if datetime.utcnow() > expires:
         return Response(content="# Token expired", media_type="application/x-mpegURL", status_code=403)
 
-    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type={stream_type}&proxy=true"
+    redirect_url = f"https://lkmobrqtdsac.us-west-1.clawcloudrun.com/?type=m3u&proxy=true"
     return RedirectResponse(url=redirect_url)
 
 @app.on_event("startup")
